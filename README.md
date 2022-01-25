@@ -3,7 +3,7 @@ It's a small project for MAC address change, for ethical hacking purposes, don't
 
 "With big powers come big responsabilities"
 
-mode of use:
+Mode of use:
 
 python3 main.py --help                                  
 Usage: main.py [options]
