@@ -2,7 +2,7 @@
 #Created by N3S7S
 
 import subprocess
-import  optparse
+import optparse
 
 parser = optparse.OptionParser()
 
