@@ -18,7 +18,7 @@ python3 main.py --help
 ```                                      
 #### Example:
 
-use comand su to be a superuser, after this, use this command:
+use the command su to be a superuser, after this, use this command:
 ```
 su
 
