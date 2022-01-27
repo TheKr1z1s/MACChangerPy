@@ -23,4 +23,6 @@ python3 main.py -i eth0 -m 00:00:00:00:00:00
 
 # Updates
 
+# v0.1
+
 The "ifconfig" command is deprecated, changed the command to "ip" for more compatibility with other distros.
