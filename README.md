@@ -20,6 +20,8 @@ python3 main.py --help
 
 use comand su to be a superuser, after this, use this command:
 ```
+su
+
 python3 main.py -i eth0 -m 00:00:00:00:00:00
 ```
 
