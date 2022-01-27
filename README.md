@@ -19,3 +19,8 @@ Example:
 use comand su to be a superuser, after this, use this command:
 
 python3 main.py -i eth0 -m 00:00:00:00:00:00
+
+
+# Updates
+
+The "ifconfig" command is deprecated, changed the command to "ip" for more compatibility with other distros.
