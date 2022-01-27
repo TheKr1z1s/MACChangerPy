@@ -15,10 +15,8 @@ subprocess.call("ifconfig")
 interface = options.interface
 new_mac = options.new_mac
 
-subprocess.call(["ifconfig", interface, "down"])
+subprocess.call(["ifdown", interface])
 subprocess.call(["ifconfig", interface, "hw", "ether", new_mac])
-subprocess.call(["ifconfig", interface, "up"])
+subprocess.call(["ifup", interface])
 
 print("\nYour MAC address has changed to: " + new_mac + " on the interface " + interface)
-
-# 00:0c:29:84:63:3f
