@@ -4,7 +4,7 @@ It's a small project for MAC address change, for ethical hacking purposes, don't
 **"With great powers comes great responsabilities!!!"**
 
 ## Mode of use:
-With this command, you see all parameters of utilization in this program.
+With this command, you will see all parameters of utilization in this program.
 
 ```
 python3 main.py --help                                  
