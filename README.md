@@ -1,7 +1,7 @@
 # MACChangerPy
 It's a small project for MAC address change, for ethical hacking purposes, don't use it for bad purposes, any infringement will be your responsibility.
 
-"With big powers come big responsabilities"
+**"With great powers comes great responsabilities!!!"**
 
 ## Mode of use:
 With this command, you see all parameters of utilization in this program.
